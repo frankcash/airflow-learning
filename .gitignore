@@ -105,3 +105,9 @@ venv.bak/
 
 # fuck osx
 .DS_Store
+
+airflow_home/logs
+airflow_home/airflow.cfg
+airflow_home/airflow.db
+airflow_home/unittests.cfg
+temp/output.csv
