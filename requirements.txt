@@ -1,4 +1,5 @@
-airflow==1.8.0
+
+git+https://github.com/apache/incubator-airflow@master#egg=apache-airflow[celery,crypto,emr,hive,hdfs,ldap,mysql,postgres,redis,slack,s3]
 alembic==0.8.10
 certifi==2018.4.16
 chardet==3.0.4

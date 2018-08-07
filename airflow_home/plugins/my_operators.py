@@ -1,7 +1,5 @@
 import logging
 from datetime import datetime
-
-
 from airflow.models import BaseOperator
 from airflow.plugins_manager import AirflowPlugin
 from airflow.utils.decorators import apply_defaults
